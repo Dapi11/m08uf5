@@ -1,3 +1,42 @@
 table, th, td {
-    border-collapse: collapse;   
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+}
+p{
+    font-size: 10px;
+    text-align: left;
+}
+.castellano{
+    background-color: orange;
+}
+.matematicas{
+   background-color: blue;
+}
+.catalan{
+    background-color: red;
+}
+.sociales{
+    background-color: green;
+}
+.ingles{
+    background-color: yellow;
+}
+.visual{
+    background-color: burlywood;
+}
+.hipica{
+    background-color: indianred;
+}
+.flauta{
+    background-color: grey;
+}
+.ef{
+    background-color: hotpink;
+}
+.piano{
+    background-color: lightblue;
+}
+.tutoria{
+    background-color: lightgreen;
 }
