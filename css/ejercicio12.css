@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&');
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&');
+table, th, td {
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.tablapeppa{
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid black;
+}
+.despeppa{
+    background-color: thistle;
+    font-family: "Lobster";
+    padding: 50px 50px 50px 50px;
+}
+.despapa{
+    font-family: "Shadows Into Light";   
+    background-color: tomato;
+    padding: 50px 50px 50px 50px;
+}
+.desmama{
+    font-family: "Fredericka The Great";
+    background-color: turquoise;
+    padding: 50px 50px 50px 50px;
+}
+.desgeorge{
+font-family: "Schoolbell";
+    background-color: yellow;
+    padding: 50px 50px 50px 50px;
+}
