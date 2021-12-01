@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/formulario.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>FORMULARIO</h1>
+    <form action="#" method="get">
+        <fieldset class="fieldsetsupremo">
+        <fieldset class="fieldsetip">
+            <legend class="legendip">INFORMACION PERSONAL</legend>
+            <label for="name">Nombre:</label><br>
+            <input type="text" placeholder="Gervasio" id="fname" name="name" maxlength="30">
+            <br>
+            <br>
+            <label for="email">Email</label><br>
+            <input type="email" id="email" placeholder="tontoquien@lolea.com" name="email" maxlength="30">
+            <br>
+            <br>
+            <form action="action_page.php"></form>
+            <label for="altura">Altura</label><br>
+            <input type="number" id="altura" name="altura" max="230cm" min="0cm">
+            <br>
+            <br>
+            <label for="fecha">Fecha de nacimiento</label><br>
+            <input type="date" name="date" id="date">
+        </fieldset>
+        
+        <br>
+        <fieldset class="fieldsetn">
+            <legend class="legendn">NACIONALIDAD</legend>
+            <input type="radio" name="nacionalidad" id="nacionalidad" value="es" "checked" checked">
+            <label for="española">Española</label>
+            <input type="radio" name="nacionalidad" id="nacionalidad" value="ue" checked"checked">
+            <label for="comunitario">Comunitario "EU"</label>
+            <input type="radio" name="nacionalidad" id="nacionalidad" value="c" checked"checked">
+            <label for="congoleña">Congoleña</label>
+        </fieldset>
+        <br>
+        
+        <fieldset class="fieldseti">
+            <legend class="legendi">IDIOMAS</legend>
+            <label for="castellano">Castellano</label>
+            <input type="checkbox" name="idiomas" id="castellano" value="castellano">
+            <label for="catalan">Catalan</label>
+            <input type="checkbox" name="idiomas" id="catalan" value="catalan">
+            <label for="ingles">Ingles</label>
+            <input type="checkbox" name="idiomas" id="ingles" value="ingles">
+            <label for="noruegp">Noruego</label>
+            <input type="checkbox" name="idiomas" id="noruego" value="Noruego">
+            <label for="mongoles">Mongolés</label>
+            <input type="checkbox" name="idiomas" id="mongoles" value="mongoles">
+            <br>
+        </fieldset>
+        <br>
+        <fieldset class="fieldsete">
+            <legend class="legende">ESTUDIOS</legend>
+            <select name="estudios" id="estudios">
+                <option value="SMX">SMX</option>
+                <option value="ASIX">ASIX</option>
+                <option value="DAM">DAM</option>
+                <option value="DAW">DAW</option>
+                <option value="ESO">ESO</option>
+                <option value="NADA">NADA</option>
+            </select>
+        </fieldset>
+        <br>
+        <br>
+        <input type="submit" id="submit" value="ENVIAR">
+        <input type="reset" id="borrar" value="CANCELAR">  
+        
+        <br>
+        <br>
+        <label for="comentarios">Cualquier queja ponla aqui</label><br>
+        <textarea name="comentarios" id="comentarios" cols="80" rows="5"></textarea>
+        </fieldset>
+    </form>
+</body>
+
+</html>

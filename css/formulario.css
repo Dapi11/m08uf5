@@ -1,0 +1,31 @@
+.legendip{
+    color: blue; 
+    font-weight: initial;   
+}
+.legendn{
+    color: orange ; 
+    font-weight: initial; 
+}
+.legendi{
+    color:red; 
+    font-weight: initial; 
+}
+.legende{
+    color:green; 
+    font-weight: initial; 
+}
+.fieldsetip{
+    background-color: lightcyan;
+}
+.fieldsetn{
+    background-color: lightsteelblue;
+}
+.fieldseti{
+    background-color: lightseagreen;
+}
+.fieldsete{
+    background-color: lightsalmon;
+}
+.fieldsetsupremo{
+    background-color: blanchedalmond;
+}
