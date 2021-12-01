@@ -3,4 +3,11 @@ table, th, td {
     border-collapse: collapse;
     text-align: center;
     width: 100%;
+    
+}
+.columna1{
+    width: 10%;
+}
+.columna2, .columna3{
+    width: 18%;
 }
