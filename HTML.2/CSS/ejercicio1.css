@@ -1,0 +1,19 @@
+.total{
+    width: 600px;
+    height: 600px;
+}
+.uno{
+    background-color: darkgreen;
+    width: 70%;
+    height: 100px;
+    float: left;
+}
+.dos{
+    background-color: greenyellow;
+    width: 30%;
+    height: 100px;
+    float: left; 
+}
+.tres{
+    
+}
