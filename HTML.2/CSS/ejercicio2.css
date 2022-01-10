@@ -1,0 +1,139 @@
+.izquierda{
+    width: 400px;
+    height: 600px;
+    float: left;
+}
+
+.derecha{
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+
+.uno{
+    background-color: darkgreen;
+    width: 395px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+.dos{
+    background-color: black;
+    width: 200px;
+    height: 145px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    vertical-align: middle;
+
+}
+.tres{
+    background-color: darkgreen;
+    width: 190px;
+    height: 225px;
+    float: right;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    vertical-align: middle;
+
+}
+.cuatro{
+    background-color: darkgreen;
+    width: 200px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+    vertical-align: middle;
+
+}
+.cinco{
+    background-color: black;
+    width: 200px;
+    height: 150px;
+    float: left;
+    text-align: center;
+    color: white;
+    margin-right: 5px;
+    vertical-align: middle;
+
+}
+.seis{
+    background-color: greenyellow;
+    width: 190px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    vertical-align: middle;
+
+}
+.siete{
+    background-color: greenyellow;
+    width: 190px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin-right: 5px;
+    vertical-align: middle;
+
+}
+.ocho{
+    background-color: greenyellow;
+    width: 195px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+    vertical-align: middle;
+
+}
+.nueve{
+    background-color: darkgreen;
+    width: 195px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+    vertical-align: middle;
+
+
+}
+.diez{
+    background-color: greenyellow;
+    width: 195px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+    vertical-align: middle;
+
+
+}
+.once{
+    background-color: black;
+    width: 195px;
+    height: 145px;
+    float: left;
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+    vertical-align: middle;
+
+}
+.doce{
+    background-color: darkgreen;
+    width: 195px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+
+}
