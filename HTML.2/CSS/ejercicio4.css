@@ -1,28 +1,89 @@
+#opacidad:hover{
+    opacity: 50%;
+    border-color: greenyellow;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+}
+
 .total{
     width: 600px;
     height: 600px;
+    position: absolute;
 }
 .uno{
-background-image: url(../);
+    background-image: url(../FOTOS/sonar-con-caballos.png);
+    width: 600px;
+    height: 75px;
+    background-size: contain ;
+    background-repeat:repeat;
+    background-size: 25% 100%;
+
 }
 .dos{
+    background-image: url(../FOTOS/La-inteligencia-en-los-caballos.jpg);
+    width: 200px;
+    height: 75px;
+    background-size: contain ;
+    background-repeat:repeat;
+    position: absolute;
+    background-size: 50% 50%;
 
 }
 .tres{
-
+    background-image: url(../FOTOS/images.jpg);
+    width: 400px;
+    height: 225px;
+    background-size: contain ;
+    background-repeat:repeat;
+    position: absolute;
+    right: 0px;
+    background-size: 100% 100%;
 }
 .cuatro{
-
+    background-image: url(../FOTOS/2272006.jpg);
+    width: 200px;
+    height: 75px;
+    background-size: contain ;
+    background-repeat:repeat;
+    margin-top: 75px;
+    
 }
 .cinco{
+    background-image: url(../FOTOS/shutterstock_146544680-e1567164526168.jpg);
+    width: 200px;
+    height: 75px;
+    background-size: contain ;
+    background-size: 100% 100%;
 
 }
 .seis{
+    background-image: url(../FOTOS/images\ \(2\).jpg);
+    width: 200px;
+    height: 75px;
+    background-size: contain ;
+    position: absolute;
+    background-size: 100% 100%;
 
 }
 .siete{
+    background-image: url(../FOTOS/images\ \(1\).jpg);
+    width: 200px;
+    height: 75px;
+    background-size: contain ;
+    position: absolute;
+    margin-left: 200px;
+    background-size: 100% 100%;
 
 }
 .ocho{
+    background-image: url(../FOTOS/cara-de-caballo_84a759e4_550x807_2.jpg);
+    width: 200px;
+    height: 75px;
+    background-size: contain cover ;
+    background-repeat:repeat;
+    position: absolute;
+    right: 0px;
+    background-size: 50% 100%;
 
 }
