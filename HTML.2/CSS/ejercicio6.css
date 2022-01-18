@@ -3,9 +3,18 @@
     background-color: #fef2cd;
     border-color: black;
 }
-
+#aside1{
+    float: left;
+}
+#aside2{
+    float:right
+}
 #cabecera{
-    
+   
+}
+section{
+    display: flex;
+    justify-content: center;
 }
 #dos{
     
@@ -13,6 +22,8 @@
 
 #tres{
     text-align: center;
+    display: flex;
+justify-content: center;
 }
 
 #cuatro{
@@ -20,7 +31,7 @@
 }
 
 #cinco{
-    text-align: center;
+
 }
 
 #seis{
@@ -31,22 +42,24 @@
     float: left;
 }
 
-#ocho{
-    
+#img{
+    width: 558px;
+    height: 380px;
 }
 
 #nueve{
-    
+    float: left;
 }
 
 #diez{
-    
+    float: right;
 }
 
 #once{
-    
+ margin-left:20px;
+margin-bottom: 60px;
 }
 
 #doce{
-    
+   
 }
