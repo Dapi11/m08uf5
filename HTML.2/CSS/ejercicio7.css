@@ -1,6 +1,8 @@
 #titulo{
     text-align: center;
-    font-size: 75px
+    font-size: 75px;
+    text-decoration: none; 
+    color: white;
 }
 #total{
     background-color:lightgrey;

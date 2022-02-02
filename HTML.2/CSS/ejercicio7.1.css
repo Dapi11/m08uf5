@@ -134,3 +134,9 @@
 #ronaldo_t{
     margin-left: 160px;
 }
+#titulo{
+    text-align: center;
+    font-size: 75px;
+    text-decoration: none; 
+    color: white;
+}
